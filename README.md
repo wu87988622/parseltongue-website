@@ -1,16 +1,16 @@
 # Parseltongue website
 
 ## Development setup
-First time running the project? Make sure you have these installed.
+
+First time running the project? Make sure you have [these](#initial-machine-setup) installed.
+
 1.  Clone this project with:
-  `git clone https://github.com/JJSPython/parseltongue-website.git`
+    `git clone https://github.com/JJSPython/parseltongue-website.git`
 2.  `cd` into the cloned repo
 3.  Run `yarn` to install project dependencies.
 4.  Run `yarn start` to start the dev server.
 
-for more info about the project npm scripts, check out the Available Scripts section.
-
-
+For more info about the project npm scripts, check out the [Available Scripts](#available-scripts) section.
 
 ## Initial Machine Setup
 
